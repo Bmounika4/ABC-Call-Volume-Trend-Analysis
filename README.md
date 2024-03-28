@@ -1,4 +1,7 @@
 # ABC-Call-Volume-Trend-Analysis
+
+#### Link ---- https://drive.google.com/drive/folders/1aruuTrdlxA4XkDy8b2nxglByMVMUfygx?usp=sharing
+
 In this project, we delve into the realm of Customer Experience (CX) analytics, focusing specifically on the inbound calling team of a company named ABC, operating in the insurance sector.  
 The dataset provided spans 23 days and includes crucial details such as agent information, queue time, call time, call duration, and call status. The objective is to analyze call volume trends, average call duration, and propose manpower planning strategies to optimize customer service efficiency and reduce abandon rates.
 
